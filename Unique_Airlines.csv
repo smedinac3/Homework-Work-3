@@ -1,0 +1,1910 @@
+AIRLINE_ID,UNIQUE_CARRIER_ENTITY,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,CARRIER_GROUP_NEW
+20409,6673,B6,JetBlue Airways,3
+21171,1006,VX,Virgin America,3
+21171,1006,VX,Virgin America,3
+21080,1126,04Q,Tradewind Aviation,6
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20201,6055,AMQ,Ameristar Air Cargo,4
+20201,6055,AMQ,Ameristar Air Cargo,4
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+21352,1150,0WQ,Avjet Corporation,1
+21352,1150,0WQ,Avjet Corporation,1
+21352,1150,0WQ,Avjet Corporation,1
+21352,1150,0WQ,Avjet Corporation,1
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20402,6690,GL,Miami Air International,2
+20402,6690,GL,Miami Air International,2
+20402,6690,GL,Miami Air International,2
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,10877,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,11033,WN,Southwest Airlines Co.,3
+21652,1194,27Q,"Jet Aviation Flight Services, Inc.",1
+21652,1194,27Q,"Jet Aviation Flight Services, Inc.",1
+21652,1194,27Q,"Jet Aviation Flight Services, Inc.",1
+21652,1194,27Q,"Jet Aviation Flight Services, Inc.",1
+21652,1194,27Q,"Jet Aviation Flight Services, Inc.",1
+21652,1194,27Q,"Jet Aviation Flight Services, Inc.",1
+20377,16736,X9,Omni Air International LLC,2
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+21161,1130,09Q,"Swift Air, LLC",1
+20372,6774,KLQ,Kalitta Charters II,1
+20372,6774,KLQ,Kalitta Charters II,1
+21635,1189,LF,CFM Inc d/b/a Contour Airlines,6
+21635,1189,LF,CFM Inc d/b/a Contour Airlines,6
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20447,6912,U7,USA Jet Airlines Inc.,2
+20447,6912,U7,USA Jet Airlines Inc.,2
+20190,6841,9S,Southern Air Inc.,2
+20190,6841,9S,Southern Air Inc.,2
+19930,6031,AS,Alaska Airlines Inc.,3
+19930,6031,AS,Alaska Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20225,6975,KS,Peninsula Airways Inc.,5
+20358,6932,ZK,Great Lakes Airlines,6
+20358,6932,ZK,Great Lakes Airlines,6
+21599,1177,4B,Boutique Air,6
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20378,6689,YV,Mesa Airlines Inc.,2
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20398,6820,MQ,Envoy Air,3
+20398,6820,MQ,Envoy Air,3
+20358,6932,ZK,Great Lakes Airlines,6
+20358,6932,ZK,Great Lakes Airlines,6
+20366,6085,EV,ExpressJet Airlines Inc.,3
+20366,6085,EV,ExpressJet Airlines Inc.,3
+20366,6085,EV,ExpressJet Airlines Inc.,3
+20366,6085,EV,ExpressJet Airlines Inc.,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20363,7024,9E,Endeavor Air Inc.,2
+20363,7024,9E,Endeavor Air Inc.,2
+19917,6910,5X,United Parcel Service,3
+19805,0A050,AA,American Airlines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20366,6085,EV,ExpressJet Airlines Inc.,3
+19917,6910,5X,United Parcel Service,3
+21167,1131,CP,Compass Airlines,2
+21167,1131,CP,Compass Airlines,2
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20398,6820,MQ,Envoy Air,3
+20398,6820,MQ,Envoy Air,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20237,6904,AX,Trans States Airlines,5
+20358,6932,ZK,Great Lakes Airlines,6
+20358,6932,ZK,Great Lakes Airlines,6
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+21477,1158,1AQ,Via Airlines d/b/a Charter Air Transport,6
+21477,1158,1AQ,Via Airlines d/b/a Charter Air Transport,6
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+19917,6910,5X,United Parcel Service,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20358,6932,ZK,Great Lakes Airlines,6
+20358,6932,ZK,Great Lakes Airlines,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20409,6673,B6,JetBlue Airways,3
+20409,6673,B6,JetBlue Airways,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20368,6035,G4,Allegiant Air,3
+20368,6035,G4,Allegiant Air,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19687,6580,QX,Horizon Air,2
+19687,6580,QX,Horizon Air,2
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+19917,6910,5X,United Parcel Service,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20263,6299,EM,Empire Airlines Inc.,5
+20263,6299,EM,Empire Airlines Inc.,5
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+19917,6910,5X,United Parcel Service,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20366,6085,EV,ExpressJet Airlines Inc.,3
+20366,6085,EV,ExpressJet Airlines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20366,6085,EV,ExpressJet Airlines Inc.,3
+21599,1177,4B,Boutique Air,6
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20263,6299,EM,Empire Airlines Inc.,5
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20422,6795,SY,Sun Country Airlines d/b/a MN Airlines,2
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20452,6003,YX,Republic Airlines,2
+20107,6200,FX,Federal Express Corporation,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20378,6689,YV,Mesa Airlines Inc.,2
+20237,6904,AX,Trans States Airlines,5
+20366,6085,EV,ExpressJet Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20378,6689,YV,Mesa Airlines Inc.,2
+20378,6689,YV,Mesa Airlines Inc.,2
+20378,6689,YV,Mesa Airlines Inc.,2
+19930,6031,AS,Alaska Airlines Inc.,3
+19930,6031,AS,Alaska Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+19930,6031,AS,Alaska Airlines Inc.,3
+19930,6031,AS,Alaska Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19805,0A050,AA,American Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19917,6910,5X,United Parcel Service,3
+20409,6673,B6,JetBlue Airways,3
+20409,6673,B6,JetBlue Airways,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+19917,6910,5X,United Parcel Service,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19805,0A050,AA,American Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20107,6200,FX,Federal Express Corporation,3
+20107,6200,FX,Federal Express Corporation,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20237,6904,AX,Trans States Airlines,5
+19917,6910,5X,United Parcel Service,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20237,6904,AX,Trans States Airlines,5
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19930,6031,AS,Alaska Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+19393,6725,WN,Southwest Airlines Co.,3
+19930,6031,AS,Alaska Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20358,6932,ZK,Great Lakes Airlines,6
+19977,0A875,UA,United Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20358,6932,ZK,Great Lakes Airlines,6
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20358,6932,ZK,Great Lakes Airlines,6
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+20358,6932,ZK,Great Lakes Airlines,6
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20366,6085,EV,ExpressJet Airlines Inc.,3
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20354,6081,AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,5
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20358,6932,ZK,Great Lakes Airlines,6
+20358,6932,ZK,Great Lakes Airlines,6
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20452,6003,YX,Republic Airlines,2
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+21599,1177,4B,Boutique Air,6
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+21599,1177,4B,Boutique Air,6
+21599,1177,4B,Boutique Air,6
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20416,6830,NK,Spirit Air Lines,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+20409,6673,B6,JetBlue Airways,3
+20409,6673,B6,JetBlue Airways,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20416,6830,NK,Spirit Air Lines,3
+20416,6830,NK,Spirit Air Lines,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+20416,6830,NK,Spirit Air Lines,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19805,0A050,AA,American Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+19393,6725,WN,Southwest Airlines Co.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20304,6700,OO,SkyWest Airlines Inc.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+19393,6725,WN,Southwest Airlines Co.,3
+20237,6904,AX,Trans States Airlines,5
+19977,0A875,UA,United Air Lines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+19977,0A875,UA,United Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20237,6904,AX,Trans States Airlines,5
+20237,6904,AX,Trans States Airlines,5
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20237,6904,AX,Trans States Airlines,5
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20452,6003,YX,Republic Airlines,2
+19393,6725,WN,Southwest Airlines Co.,3
+20237,6904,AX,Trans States Airlines,5
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+21599,1177,4B,Boutique Air,6
+20358,6932,ZK,Great Lakes Airlines,6
+20358,6932,ZK,Great Lakes Airlines,6
+21599,1177,4B,Boutique Air,6
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19930,6031,AS,Alaska Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19930,6031,AS,Alaska Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20436,6460,F9,Frontier Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19805,0A050,AA,American Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+21171,1006,VX,Virgin America,3
+21171,1006,VX,Virgin America,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19805,0A050,AA,American Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20398,6820,MQ,Envoy Air,3
+20378,6689,YV,Mesa Airlines Inc.,2
+20398,6820,MQ,Envoy Air,3
+19805,0A050,AA,American Airlines Inc.,3
+20378,6689,YV,Mesa Airlines Inc.,2
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+20500,7041,G7,GoJet Airlines LLC d/b/a United Express,2
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19790,1260,DL,Delta Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+20304,6700,OO,SkyWest Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19805,0A050,AA,American Airlines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19805,0A050,AA,American Airlines Inc.,3
+19977,0A875,UA,United Air Lines Inc.,3
+19393,6725,WN,Southwest Airlines Co.,3
+19805,0A050,AA,American Airlines Inc.,3
